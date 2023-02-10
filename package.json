@@ -1,0 +1,25 @@
+{
+  "name": "challenge-ignite-nodejs-01-fundamentos-nodejs-streams",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --watch src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StealthWorm/challenge-ignite-nodejs-01-fundamentos-nodejs-streams.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StealthWorm/challenge-ignite-nodejs-01-fundamentos-nodejs-streams/issues"
+  },
+  "homepage": "https://github.com/StealthWorm/challenge-ignite-nodejs-01-fundamentos-nodejs-streams#readme",
+  "dependencies": {
+    "csv-parse": "^5.3.5"
+  }
+}
